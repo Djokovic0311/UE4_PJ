@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{721271A9-42C1-9E82-1EA7-7DA4C056F5C2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PJ1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
